@@ -1,7 +1,7 @@
 # ***_Monostatic Radar_***
 
 ***
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPramod-Krishna%2FMonostatic-Radar&count_bg=%23EF0C3D&title_bg=%23050505&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPramod-Krishna%2FMonostatic-Radar&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 The design goal of this pulse radar system is to detect non-fluctuating targets with 1sqm RCS at a distance up to 5km from the radar with a range resolution of 50m. The desired performance index is a probability of detection (Pd) of 0.9 and probability of false alarm (Pfa) below 1e-6. 
 We choose a rectangular waveform, and make a few assumptions:
